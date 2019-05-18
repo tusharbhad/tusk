@@ -3,3 +3,5 @@ scan phone
 
 
 name
+
+email
